@@ -69,4 +69,15 @@ router.get('/carrito', (req,res)=>{
         }
     }) */
 })
+
+router.get('/perfil', (req,res)=>{
+    res.render('perfil')
+    /* conexion.query('SELECT * FROM helados', (error, results)=>{
+        if(error){
+            throw error;
+        }else{
+            res.send(results);
+        }
+    }) */
+})
 module.exports = router;
