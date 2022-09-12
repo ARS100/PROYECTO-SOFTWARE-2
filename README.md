@@ -7,5 +7,10 @@ Dubian Palacios Rivera - 2182063
 
 
 
+demo = backend (SpringBoot)
+icecream = frontend (EJS)
+
+
+
 Grupo D1
 
